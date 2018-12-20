@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906666300309",
+    "firebase_url": "https://guiangaaronlab8.firebaseio.com",
+    "project_id": "guiangaaronlab8",
+    "storage_bucket": "guiangaaronlab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906666300309:android:4ae6d34edc0ebbe1",
+        "android_client_info": {
+          "package_name": "com.guiang.aaron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906666300309-6fdrmostd56fmpco1vv0f4gb2hkaj1vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guiang.aaron",
+            "certificate_hash": "a0549f160aeb4f6e320c4b4597a0b4d98370ea7a"
+          }
+        },
+        {
+          "client_id": "906666300309-h518q1hedbeiqgrcemm70c745rdc8jvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4W4epFZWl0v0ZbHbY8ZA_F7tfFLZ1Go8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906666300309-h518q1hedbeiqgrcemm70c745rdc8jvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

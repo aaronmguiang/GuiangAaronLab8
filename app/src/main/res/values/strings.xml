@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuiangAaronLab8</string>
+    <string name="name">Fullname:</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+</resources>
